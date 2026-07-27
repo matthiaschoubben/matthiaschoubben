@@ -55,28 +55,18 @@
     <img height="180em" src="https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app/api/pin/?username=matthiaschoubben&repo=DevOps-2526&theme=default" /> 
   </a> 
 </p> 
-
-https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app
 <p align="left"> 
   <a href="https://github.com/matthiaschoubben/SEP-2526"> 
     <img height="180em" src="https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app/api/pin/?username=matthiaschoubben&repo=SEP-2526&theme=default" /> 
   </a> 
 </p>
-<!--
-📌 Add your own repo pins here, e.g.:
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME/repo-name">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=repo-name&theme=default" />
-  </a>
-</p>
--->
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left"> 
-  <img src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api?username=matthiaschoubben&show_icons=true&theme=default" height="165em"/> 
+  <img src="https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app/api?username=matthiaschoubben&show_icons=true&theme=default" height="165em"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthiaschoubben&theme=default" height="165em"/> 
 </p>
 
@@ -86,7 +76,7 @@ https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/matthias-schoubben-1604862b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:matthias.schoubben@gmail.com">
