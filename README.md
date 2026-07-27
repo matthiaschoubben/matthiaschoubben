@@ -48,16 +48,19 @@
 ### 🚀 Featured Projects
 
 - **DevOps Infrastructure Project** — Designed and built infrastructure for a real web application, collaborating with developers to define requirements and set up a suitable CI/CD build pipeline, plus several base-project extensions.
-<p align="left">
-  <a href="https://github.com/matthiaschoubben/DevOps-2526">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=matthiaschoubben&repo=DevOps-2526&theme=default" />
-  </a>
-</p>
 - **System Engineering Project** — Designed, configured, and deployed a complete Windows/Linux network based on a custom Cisco network design.
-<p align="left">
-  <a href="https://github.com/matthiaschoubben/SEP-2526">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=matthiaschoubben&repo=SEP-2526&theme=default" />
-  </a>
+
+<p align="left"> 
+  <a href="https://github.com/matthiaschoubben/DevOps-2526"> 
+    <img height="180em" src="https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app/api/pin/?username=matthiaschoubben&repo=DevOps-2526&theme=default" /> 
+  </a> 
+</p> 
+
+https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app
+<p align="left"> 
+  <a href="https://github.com/matthiaschoubben/SEP-2526"> 
+    <img height="180em" src="https://github-readme-stats-deploy-qv5ji96yx-m12-203f.vercel.app/api/pin/?username=matthiaschoubben&repo=SEP-2526&theme=default" /> 
+  </a> 
 </p>
 <!--
 📌 Add your own repo pins here, e.g.:
@@ -72,10 +75,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthiaschoubben&show_icons=true&theme=default" height="165em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthiaschoubben&theme=default" height="165em"/>
+<p align="left"> 
+  <img src="https://YOUR-VERCEL-DEPLOYMENT.vercel.app/api?username=matthiaschoubben&show_icons=true&theme=default" height="165em"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthiaschoubben&theme=default" height="165em"/> 
 </p>
+
 
 ---
 
