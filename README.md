@@ -47,19 +47,8 @@
 
 ### 🚀 Featured Projects
 
-- **DevOps Infrastructure Project** — Designed and built infrastructure for a real web application, collaborating with developers to define requirements and set up a suitable CI/CD build pipeline, plus several base-project extensions.
-- **System Engineering Project** — Designed, configured, and deployed a complete Windows/Linux network based on a custom Cisco network design.
-
-<p align="left"> 
-  <a href="https://github.com/matthiaschoubben/DevOps-2526"> 
-    <img height="180em" src="https://github-readme-stats-deploy-virid.vercel.app/api/pin/?username=matthiaschoubben&repo=DevOps-2526&theme=default" /> 
-  </a> 
-</p> 
-<p align="left"> 
-  <a href="https://github.com/matthiaschoubben/SEP-2526"> 
-    <img height="180em" src="https://github-readme-stats-deploy-virid.vercel.app/api/pin/?username=matthiaschoubben&repo=SEP-2526&theme=default" /> 
-  </a> 
-</p>
+- [**DevOps Infrastructure Project**](https://github.com/matthiaschoubben/DevOps-2526) — Designed and built infrastructure for a real web application, collaborating with developers to define requirements and set up a suitable CI/CD build pipeline, plus several base-project extensions.
+- [**System Engineering Project**](https://github.com/matthiaschoubben/SEP-2526) — Designed, configured, and deployed a complete Windows/Linux network based on a custom Cisco network design.
 
 ---
 
