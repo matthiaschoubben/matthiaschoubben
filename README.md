@@ -41,7 +41,7 @@
 
 **Automation & DevOps:** Infrastructure Automation · CI/CD Build Pipelines · Ansible · Vagrant · Docker · Kubernetes
 
-**Languages:** 🇬🇧 English (Fluent) · 🇧🇪 Dutch (Native) · 🇫🇷 French (Basic)
+**Languages:** 🇬🇧 English (Native) · 🇧🇪 Dutch (Fluent) · 🇫🇷 French (Basic)
 
 ---
 
