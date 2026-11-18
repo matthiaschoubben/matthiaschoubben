@@ -10,7 +10,7 @@
 ### 🌍 About Me
 
 - 🎓 Third-year IT student specializing in **Network and System Management** at HOGENT (Ghent, Belgium)
-- 🌐 Studied in **India, the USA, and Belgium** — brings a global perspective and adaptability
+- 🌐 Studied in **India, the USA, and Belgium** - brings a global perspective and adaptability
 - 🔭 Currently working on infrastructure automation and DevOps coursework projects
 - 🌱 Currently learning **Docker & Kubernetes**
 - 💬 Ask me about network configuration, system administration, or infrastructure automation
